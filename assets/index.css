@@ -89,7 +89,7 @@ header {
 .text-desc1 button,
 .bot-sub button {
   font-weight: 700;
-  background-color: #cd045f;
+  background-color: #29cfec;
   border: 0;
   border-radius: 0 10px 10px 0;
   width: 30%;
@@ -120,7 +120,7 @@ header {
 }
 
 .if1 {
-  background-color: #cd045f;
+  background-color: #29cfec;
 }
 
 .if2 {
@@ -191,7 +191,7 @@ footer {
   font-size: 2.5vw;
   font-weight: 700;
   width: 25%;
-  color: #cd045f;
+  color: #29cfec;
 }
 
 .bot-sub {
@@ -202,7 +202,7 @@ footer {
 .bot-contact {
   font-size: 2vw;
   font-weight: 700;
-  color: #cd045f;
+  color: #29cfec;
   width: 20%;
   flex-direction: column;
 }
@@ -248,7 +248,7 @@ footer {
 
 .bmf2 {
   border-radius: 0 0 10px 10px;
-  background-color: #cd045f;
+  background-color: #29cfec;
 }
 
 .form-bottom {
@@ -283,12 +283,12 @@ footer {
 }
 
 .bmf1:hover {
-  background-color: #cd045f;
+  background-color: #29cfec;
 }
 
 .search-bar input:hover,
 .bot-sub input:hover {
-  background-color: #cd045f;
+  background-color: #29cfec;
 }
 
 .search-bar button:hover,
@@ -297,7 +297,7 @@ footer {
 }
 
 .nav-footer > *:hover {
-  background-color: #cd045f;
+  background-color: #29cfec;
   color: black;
 }
 
