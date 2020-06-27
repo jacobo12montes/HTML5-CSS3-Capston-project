@@ -221,16 +221,78 @@ footer {
 
 .bot-sub input,
 .bot-sub button {
-  height: 4.5vw;
+  height: 3.5vw;
   width: 80%;
   border: 0;
 }
 
-.search-bar input:hover {
+.item-main-form {
+  padding: 2vw;
+}
+
+.butt-main-form {
+  padding: 2vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.butt-main-form button {
+  border: 0;
+  font-weight: 700;
+}
+
+.bmf1 {
+  border-radius: 10px 10px 0 0;
+  background-color: white;
+}
+
+.bmf2 {
+  border-radius: 0 0 10px 10px;
   background-color: #cd045f;
 }
 
-.search-bar button:hover {
+.form-bottom {
+  width: 100%;
+  height: 4vw;
+  background-color: black;
+}
+
+.img-client img {
+  width: 10vw;
+}
+
+.item-client-list {
+  width: 25%;
+  padding: 1vw;
+}
+
+.img-client {
+  width: 30%;
+}
+
+.summary-client {
+  align-items: flex-end;
+  text-align: right;
+  width: 70%;
+}
+
+
+
+.bmf2:hover {
+  background-color: white;
+}
+
+.bmf1:hover {
+  background-color: #cd045f;
+}
+
+.search-bar input:hover,
+.bot-sub input:hover {
+  background-color: #cd045f;
+}
+
+.search-bar button:hover,
+.bot-sub button:hover {
   background-color: white;
 }
 
