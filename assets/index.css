@@ -341,8 +341,6 @@ footer {
   background-color: #29cfec;
 }
 
-
-
 .bmf2:hover {
   background-color: white;
 }
@@ -376,12 +374,6 @@ footer {
 
 .call-action button:hover {
   background-color: whitesmoke;
-}
-
-@media (min-width: 768px) {
-}
-
-@media (min-width: 1024px) {
 }
 
 @media (max-width: 1024px) {
