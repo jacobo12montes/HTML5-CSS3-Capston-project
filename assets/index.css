@@ -313,6 +313,21 @@ footer {
   font-size: 1.4vw;
 }
 
+.rest-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.rest-summary > * {
+  width: 80%;
+}
+
+.rest-summary h3 {
+  font-weight: 700;
+}
+
 
 
 .bmf2:hover {
@@ -340,6 +355,10 @@ footer {
 
 .info-container > *:hover {
   border: 5px solid #29cfec;
+}
+
+.rest-summary h3:hover {
+  color: #29cfec;
 }
 
 @media (min-width: 768px) {
