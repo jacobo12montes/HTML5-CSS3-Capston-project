@@ -335,6 +335,10 @@ footer {
 
 .call-action button {
   width: 20%;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 700;
+  background-color: #29cfec;
 }
 
 
@@ -370,13 +374,14 @@ footer {
   color: #29cfec;
 }
 
+.call-action button:hover {
+  background-color: whitesmoke;
+}
+
 @media (min-width: 768px) {
 }
 
 @media (min-width: 1024px) {
-}
-
-@media (max-width: 768px) {
 }
 
 @media (max-width: 1024px) {
@@ -404,6 +409,22 @@ footer {
   .item-client-list {
     width: 50%;
   }
+
+  .client {
+    flex-direction: column;
+  }
+
+  .info-att {
+    font-size: 1.8vw;
+  }
+
+  .attribute {
+    font-size: 2vw;
+  }
+
+  .info-client {
+    padding: 3vw 0;
+  }
 }
 
 @media (max-width: 768px) {
@@ -425,9 +446,46 @@ footer {
 
   .item-client-list {
     width: 100%;
+    padding: 3vw;
   }
 
   .main-form form {
     flex-direction: column;
+  }
+
+  .info-att {
+    font-size: 2.4vw;
+  }
+
+  .attribute {
+    font-size: 2.6vw;
+  }
+
+  .call-action {
+    flex-direction: column;
+  }
+
+  .call-action button {
+    margin: 1.5vw 0;
+  }
+
+  .nav-header {
+    font-size: 4vw;
+  }
+
+  .item-main-form input {
+    width: 150%;
+  }
+
+  .img-client img {
+    width: 20vw;
+  }
+
+  .summary-client div {
+    padding: 1vw;
+  }
+
+  .summary-client {
+    padding-left: 3vw;
   }
 }
