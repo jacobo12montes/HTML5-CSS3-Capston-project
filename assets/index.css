@@ -276,6 +276,43 @@ footer {
   font-weight: 700;
 }
 
+.client {
+  width: 100%;
+  padding: 2vw;
+}
+
+.client-img {
+  width: 40%;
+}
+
+.client-img a img {
+  width: 20vw;
+}
+
+.info-client {
+  width: 60%;
+}
+
+.info-container {
+  width: 80%;
+}
+
+.info-container > * {
+  display: flex;
+  width: 40%;
+  justify-content: left;
+  padding: 0.5vw 0;
+}
+
+.attribute {
+  font-weight: bolder;
+  font-size: 1.6vw;
+}
+
+.info-att {
+  font-size: 1.4vw;
+}
+
 
 
 .bmf2:hover {
@@ -299,6 +336,10 @@ footer {
 .nav-footer > *:hover {
   background-color: #29cfec;
   color: black;
+}
+
+.info-container > *:hover {
+  border: 5px solid #29cfec;
 }
 
 @media (min-width: 768px) {
