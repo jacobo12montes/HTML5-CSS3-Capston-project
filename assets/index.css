@@ -328,6 +328,15 @@ footer {
   font-weight: 700;
 }
 
+.call-action {
+  padding: 3vw;
+  justify-content: space-evenly;
+}
+
+.call-action button {
+  width: 20%;
+}
+
 
 
 .bmf2:hover {
