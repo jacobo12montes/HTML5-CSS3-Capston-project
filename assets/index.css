@@ -376,6 +376,10 @@ footer {
   background-color: whitesmoke;
 }
 
+.hide {
+  display: none;
+}
+
 @media (max-width: 1024px) {
   .newsl {
     display: none;
