@@ -1,17 +1,16 @@
-﻿# Newsweek Homepage
+﻿# HTML CSS3 CAPSTONE PROJECT
 
-> Newsweek Clone (newsweek.com)
+> Maracumbé
 
 ![screenshot](./screenshot.jpg)
 
 Additional description about the project and its features.
 
-## Building with Bootstrap and CSS frameworks
+## Building a real life project
 
-1. Adde Bootstrap boilerplate code 
-2. Used Bootstrap classes where possible.
-3. Applied HTML semantics and CSS standard practices.
-4. Responsive layout, so it won't brake on smaller screens.
+1. Add Bootstrap boilerplate code 
+2. Applied HTML semantics and CSS standard practices.
+3. Responsive layout, so it won't brake on smaller screens.
 
 ## Built With
 
@@ -23,7 +22,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/jacobo12montes/Newsweek-Bootstrap-/responsive/index.html)
+[Live Demo Link](https://raw.githack.com/jacobo12montes/HTML5-CSS3-Capston-project/client-list/index.html)
 
 ## Getting Started
 
@@ -35,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Visit repository
 
-### Download Repository (https://github.com/jacobo12montes/Newsweek-Bootstrap-)
+### Download Repository (https://github.com/jacobo12montes/HTML5-CSS3-Capston-project)
 
 ### Open index.html
 
