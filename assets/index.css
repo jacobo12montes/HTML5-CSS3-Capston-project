@@ -254,8 +254,9 @@ footer {
 }
 
 .item-client-list {
-  width: 33.33%;
+  width: 30%;
   padding: 1vw;
+  margin: 2vw 1vw;
 }
 
 .summary-client {
