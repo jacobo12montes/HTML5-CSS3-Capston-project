@@ -38,7 +38,7 @@ header {
 }
 
 .header-title {
-  width: 60%;
+  width: 55%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -49,7 +49,7 @@ header {
 }
 
 .nav-header {
-  width: 15%;
+  width: 30%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -58,6 +58,7 @@ header {
 }
 
 .nav-header a {
+  margin: 2vw;
   color: black;
 }
 
