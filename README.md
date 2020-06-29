@@ -1,6 +1,7 @@
 ﻿# HTML CSS3 CAPSTONE PROJECT
 
 > Maracumbé
+This is an example of a CRM with trhee pages, the home page, the client list, and the client profile
 
 ![screenshot](./screenshot.jpg)
 
