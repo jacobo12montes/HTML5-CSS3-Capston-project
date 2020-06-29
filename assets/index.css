@@ -89,7 +89,7 @@ header {
 .text-desc1 button,
 .bot-sub button {
   font-weight: 700;
-  background-color: #D3564A;
+  background-color: #d3564a;
   border: 0;
   border-radius: 0 10px 10px 0;
   width: 30%;
@@ -98,11 +98,10 @@ header {
 
 .text-desc1 button {
   border-radius: 0%;
-  background-color: #FBFDFF;
+  background-color: #fbfdff;
 }
 
 .functions {
-  display: flex;
   flex-wrap: wrap;
 }
 
@@ -110,7 +109,6 @@ header {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  display: flex;
   width: 50%;
   height: 20vw;
 }
@@ -125,21 +123,20 @@ header {
 }
 
 .description {
-  display: flex;
   flex-direction: column;
   width: 100%;
 }
 
 .deit-bc1 {
-  background-color: #E27F65;
+  background-color: #e27f65;
 }
 
 .deit-bc2 {
-  background-color: #98A5A5;
+  background-color: #98a5a5;
 }
 
 .deit-bc3 {
-  background-color: #519CD8;
+  background-color: #519cd8;
 }
 
 .text-desc {
@@ -187,7 +184,7 @@ footer {
   font-size: 2.5vw;
   font-weight: 700;
   width: 25%;
-  color: #D3564A;
+  color: #d3564a;
 }
 
 .bot-sub {
@@ -198,7 +195,7 @@ footer {
 .bot-contact {
   font-size: 2vw;
   font-weight: 700;
-  color: #D3564A;
+  color: #d3564a;
   width: 20%;
   flex-direction: column;
 }
@@ -228,7 +225,6 @@ footer {
 
 .butt-main-form {
   padding: 2vw;
-  display: flex;
   flex-direction: column;
 }
 
@@ -244,7 +240,7 @@ footer {
 
 .bmf2 {
   border-radius: 0 0 10px 10px;
-  background-color: #D3564A;
+  background-color: #d3564a;
 }
 
 .form-bottom {
@@ -294,7 +290,6 @@ footer {
 }
 
 .info-container > * {
-  display: flex;
   width: 40%;
   justify-content: left;
   padding: 0.5vw 0;
@@ -310,7 +305,6 @@ footer {
 }
 
 .rest-summary {
-  display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
@@ -335,7 +329,7 @@ footer {
   border: 0;
   border-radius: 10px;
   font-weight: 700;
-  background-color: #D3564A;
+  background-color: #d3564a;
   flex-direction: row;
 }
 
@@ -344,12 +338,12 @@ footer {
 }
 
 .bmf1:hover {
-  background-color: #D3564A;
+  background-color: #d3564a;
 }
 
 .search-bar input:hover,
 .bot-sub input:hover {
-  background-color: #D3564A;
+  background-color: #d3564a;
 }
 
 .search-bar button:hover,
@@ -358,16 +352,16 @@ footer {
 }
 
 .nav-footer > *:hover {
-  background-color: #D3564A;
+  background-color: #d3564a;
   color: black;
 }
 
 .info-container > *:hover {
-  border: 5px solid #D3564A;
+  border: 5px solid #d3564a;
 }
 
 .rest-summary h3:hover {
-  color: #D3564A;
+  color: #d3564a;
 }
 
 .call-action button:hover {
