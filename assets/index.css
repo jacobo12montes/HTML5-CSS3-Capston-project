@@ -5,10 +5,13 @@
   align-items: center;
 }
 
+.disflex {
+  display: flex;
+}
+
 body {
   padding: 0 1vw;
   max-width: 1310px;
-  min-width: 500px;
   margin: auto;
   font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -21,7 +24,6 @@ input {
 
 header {
   padding: 1vw 0;
-  display: flex;
   flex-wrap: wrap;
   max-width: 1310px;
   background-color: white;
@@ -39,7 +41,6 @@ header {
 
 .header-title {
   width: 55%;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -50,7 +51,6 @@ header {
 
 .nav-header {
   width: 30%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   font-weight: 300;
@@ -72,7 +72,6 @@ header {
 }
 
 .search-bar {
-  display: flex;
   justify-content: center;
   width: 70%;
   font-weight: 300;
@@ -144,7 +143,7 @@ header {
 }
 
 .text-desc {
-  height: 20vw;
+  height: 22vw;
   width: 100%;
 }
 
@@ -331,11 +330,13 @@ footer {
 }
 
 .call-action button {
+  min-width: 110px;
   width: 20%;
   border: 0;
   border-radius: 10px;
   font-weight: 700;
   background-color: #D3564A;
+  flex-direction: row;
 }
 
 .bmf2:hover {
@@ -447,11 +448,11 @@ footer {
   }
 
   .info-att {
-    font-size: 2.4vw;
+    font-size: 3.4vw;
   }
 
   .attribute {
-    font-size: 2.6vw;
+    font-size: 3.6vw;
   }
 
   .call-action {
@@ -480,5 +481,9 @@ footer {
 
   .summary-client {
     padding-left: 3vw;
+  }
+
+  .info-client {
+    width: 100%;
   }
 }
